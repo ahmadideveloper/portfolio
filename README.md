@@ -7,6 +7,6 @@
 - 🔗 [Demo Project](https://ahmadideveloper.github.io/portfolio/)
 - 👨‍💻 developed by reza ahmadi
 - 📆 Created - 2023-08-18
-- 🤖 Technologies Used - Html , Sass
+- 🤖 Technologies Used - Html , Bootstrap, Sass
 - 🕵🏻‍♀️ Role - Frontend
 - 📫 How to reach me : with my [instagram](https://instagram.com/ahmadideveloper) and [linkedin](https://linkedin.com/in/reza-ahmadi-639351286)
